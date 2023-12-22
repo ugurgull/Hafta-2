@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    static void dongu(int n){
+    public static void dongu(int n){
         System.out.println(n + " ");
         if (n <= 0){
             return;
